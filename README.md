@@ -43,8 +43,7 @@ I'm a Data Scientist in training with 4+ years of experience in data analytics a
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary><b>Languages & Databases</b></summary><br>
+<b>Languages & Databases</b>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
