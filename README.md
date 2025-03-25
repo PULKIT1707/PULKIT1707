@@ -51,7 +51,8 @@ I'm a Data Scientist in training with 4+ years of experience in data analytics a
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
-<b>Tools & Frameworks</b><
+<b>Tools & Frameworks</b>
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -60,6 +61,7 @@ I'm a Data Scientist in training with 4+ years of experience in data analytics a
 
 
 <b>Cloud & Data Engineering</b>
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Superset](https://img.shields.io/badge/Apache%20Superset-3A3A3A?style=for-the-badge)
@@ -67,6 +69,7 @@ I'm a Data Scientist in training with 4+ years of experience in data analytics a
 
 
 <b>Machine Learning</b>
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white)
